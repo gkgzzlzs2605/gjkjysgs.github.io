@@ -1,18 +1,15 @@
 ---
 permalink: /
-title: " "
-excerpt: "<br>"
-author_profile: true
-header:
-  overlay_image: forest.jpg
-  overlay_opacity: 0.25
-  caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile:true
 redirect_from: 
   - /about/
   - /about.html
-  - /bio/
 ---
+我司简介
 
-Welcome! I'm Chad, a research scientist studying the health impacts of climate change at Boston University, as part of the [Center for Climate and Health](https://sites.bu.edu/climateandhealth/).
-
-This is my new website; while I'm getting this set up, please feel free to email me with any questions: cmilando at bu dot edu.
+在科技日新月异的今天，我们中国科技有限公司，肩负着引领时代潮流的重任，以科技创新为动力，涉猎广泛，为社会的进步贡献着我们的力量。
+公司成立之初，就明确了科研、信息和服务外包三个领域的发展方向。科研是我们的基石，我们拥有一支高素质的科研团队，他们不断探索新的科学领域，为我们带来源源不断的创新成果。在信息领域，我们致力于技术的研发和应用，将最新的科技成果转化为能够直接服务于人民生活的产品，让科技惠及千家万户。
+服务外包则是我们拓展业务、服务社会的另一重要手段。我们不仅提供高质量的技术服务，更注重与客户建立长期稳定的合作关系，共同应对市场的挑战，实现互利共赢。
+人才是公司发展的关键。我们深知“人是企业的灵魂”，因此在人才引进和培养上投入巨大。公司内部，人才济济，每个人都在为公司的发展尽心尽力。他们的智慧与热情，为公司注入了无穷的活力。
+中国科技有限公司，一直致力于科技的创新与发展，通过我们不懈的努力，相信未来一定会更加美好。我们期待与更多的伙伴携手共进，共同创造辉煌。
